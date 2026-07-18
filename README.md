@@ -3,7 +3,7 @@
 
 Welcome to the official public access hub for GIPFF Volume 1. This framework features interactive simulations paired with a structured companion guide to support conceptual understanding, visualization, and inquiry-based learning in fundamental physics.
 
-The activities are designed around topics discussed in standard calculus-based reference textbooks, including *Physics for Scientists and Engineers* (Serway & Jewett; Giancoli), *University Physics* (Young, Freedman, & Ford), and *Fundamentals of Physics* (Halliday, Resnick, & Walker).
+The activities are designed around topics discussed in standard reference textbooks, including *Physics for Scientists and Engineers* (Serway & Jewett; Giancoli), *University Physics* (Young, Freedman, & Ford), and *Fundamentals of Physics* (Halliday, Resnick, & Walker).
 
 ---
 
