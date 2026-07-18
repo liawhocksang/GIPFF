@@ -26,6 +26,4 @@ Every single activity in the framework is built around a consistent four-part pe
 
 ## 💡 How to Explore
 
-There is no single prescribed way to move through an applet. You are encouraged to open the **GeoGebra Classroom** in one window and follow along with the **PDF Companion Guide** in another. Investigate freely, test your own predictions, compare different physical scenarios, and construct your own intuitive understanding of mechanics through observation and interaction.
-
-​
+There is no single prescribed way to move through an applet. You are encouraged to open the **GeoGebra Classroom**. Investigate freely, test your own predictions, compare different physical scenarios, and construct your own intuitive understanding of mechanics through observation and interaction.
