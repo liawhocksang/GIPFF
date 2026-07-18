@@ -12,7 +12,7 @@ The activities are designed around topics discussed in standard reference textbo
 To begin investigating, use the two primary public resources below. Both are completely free of charge for educational use.
 
 *   **🎛️ GIPFF GeoGebra Classroom:** [Click here to launch the interactive simulations](https://www.geogebra.org/classroom/ektpfmjk). You can freely manipulate variables, explore different physical situations, and test predictions in real time. No user account is required to join.
-*   **📖 GIPFF PDF Companion Guide:** [Click here to download the Companion Guide](https://github.com/liawhocksang/GIPFF/blob/main/GIPFF%20Companion%20Guide%20-%20GitHub.pdf). This free PDF contains the complete text framework for all 35 activities—including the Learning Focus, Key Observations, and Challenges—along with reference applet screenshots for each setup.
+*   **📖 GIPFF PDF Companion Guide:** [Click here to download the Companion Guide](https://github.com/liawhocksang/GIPFF/blob/main/GIPFF%20Companion%20Guide%20-%20GitHub.pdf). This free PDF contains the complete text framework for all activities—including the Learning Focus, Key Observations, and Challenges—along with reference applet screenshots for each setup.
 
 ---
 
