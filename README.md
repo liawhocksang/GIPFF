@@ -12,17 +12,7 @@ The activities are designed around topics discussed in standard reference textbo
 To begin investigating, use the two primary public resources below. Both are completely free of charge for educational use.
 
 *   **🎛️ GIPFF GeoGebra Classroom:** [Click here to launch the interactive simulations](https://www.geogebra.org/classroom/ektpfmjk). You can freely manipulate variables, explore different physical situations, and test predictions in real time. No user account is required to join.
-*   **📖 GIPFF PDF Companion Guide:** [Click here to download the Companion Guide](https://github.com/liawhocksang/GIPFF/blob/main/GIPFF%20Companion%20Guide%20-%20GitHub.pdf). This free PDF contains the complete text framework for all activities—including the Learning Focus, Key Observations, and Challenges—along with reference applet screenshots for each setup.
 
----
-
-## 📋 Framework Structure
-
-Every single activity in the framework is built around a consistent four-part pedagogical design:
-1. **Learning Focus:** Identifies the main mechanics concepts and physical relationships to investigate.
-2. **Interactive Applet:** A digital space to explore the simulation by changing variables and observing immediate results.
-3. **Key Observations:** Highlights important physical relationships and vector dynamics revealed by the applet.
-4. **Challenge / Question:** Conceptual prompts designed to encourage deeper thinking and independent analysis.
 
 ## 💡 How to Explore
 
