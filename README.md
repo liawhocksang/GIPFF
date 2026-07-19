@@ -14,6 +14,17 @@ To begin investigating, use the two primary public resources below. Both are com
 *   **🎛️ GIPFF GeoGebra Classroom:** [Click here to launch the interactive simulations](https://www.geogebra.org/classroom/ektpfmjk). You can freely manipulate variables, explore different physical situations, and test predictions in real time. No user account is required to join.
 
 
+---
+
+## 📋 Framework Structure
+
+Every single activity in the framework is built around a consistent four-part pedagogical design:
+1. **Learning Focus:** Identifies the main mechanics concepts and physical relationships to investigate.
+2. **Interactive Applet:** A digital space to explore the simulation by changing variables and observing immediate results.
+3. **Key Observations:** Highlights important physical relationships and vector dynamics revealed by the applet.
+4. **Challenge / Question:** Conceptual prompts designed to encourage deeper thinking and independent analysis.
+
+   
 ## 💡 How to Explore
 
 There is no single prescribed way to move through an applet. You are encouraged to open the **GeoGebra Classroom**. Investigate freely, test your own predictions, compare different physical scenarios, and construct your own intuitive understanding of mechanics through observation and interaction.
