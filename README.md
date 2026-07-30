@@ -6,7 +6,7 @@ Welcome to the official public access hub for GIPFF Volume 1. This framework fea
 The activities are designed around topics discussed in standard reference textbooks, including *Physics for Scientists and Engineers* (Serway & Jewett; Giancoli), *University Physics* (Young, Freedman, & Ford), and *Fundamentals of Physics* (Halliday, Resnick, & Walker).
 
 ### Volume 2: Electricity and Magnetism
-[Under development interactive simulations](https://www.geogebra.org/classroom/c9yfnn6u)
+*   [Under development interactive simulations](https://www.geogebra.org/classroom/c9yfnn6u)
 ---
 
 ## 🚀 Access the Framework Resources
