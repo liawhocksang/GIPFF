@@ -7,6 +7,10 @@ The activities are designed around topics discussed in standard reference textbo
 
 ### Volume 2: Electricity and Magnetism
 *   [Under development interactive simulations](https://www.geogebra.org/classroom/c9yfnn6u)
+### Volume 3: Periodic Motion, Waves, and Geometric Optics
+*   [Under development interactive simulations](https://www.geogebra.org/classroom/jykpmvrx)
+---
+
 ---
 
 ## 🚀 Access the Framework Resources
