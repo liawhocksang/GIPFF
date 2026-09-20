@@ -5,13 +5,6 @@ Welcome to the official public access hub for GIPFF Volume 1. This framework fea
 
 The activities are designed around topics discussed in standard reference textbooks, including *Physics for Scientists and Engineers* (Serway & Jewett; Giancoli), *University Physics* (Young, Freedman, & Ford), and *Fundamentals of Physics* (Halliday, Resnick, & Walker).
 
-### Volume 2: Electricity and Magnetism
-*   [Under development interactive simulations](https://www.geogebra.org/classroom/c9yfnn6u)
-### Volume 3: Periodic Motion, Waves, and Geometric Optics
-*   [Under development interactive simulations](https://www.geogebra.org/classroom/jykpmvrx)
----
-
----
 
 ## 🚀 Access the Framework Resources
 
@@ -34,3 +27,10 @@ Every single activity in the framework is built around a consistent four-part pe
 ## 💡 How to Explore
 
 There is no single prescribed way to move through an applet. You are encouraged to open the **GeoGebra Classroom**. Investigate freely, test your own predictions, compare different physical scenarios, and construct your own intuitive understanding of mechanics through observation and interaction.
+
+---
+### Volume 2: Electricity and Magnetism
+*   [Under development interactive simulations](https://www.geogebra.org/classroom/c9yfnn6u)
+### Volume 3: Periodic Motion, Waves, and Geometric Optics
+*   [Under development interactive simulations](https://www.geogebra.org/classroom/jykpmvrx)
+---
